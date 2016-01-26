@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\GCUtility\bin\Release\$safeprojectname$.dll
+C:\Users\Administrator\Desktop\GCUtility\bin\Release\$safeprojectname$.pdb
+C:\Users\Administrator\Desktop\GCUtility\bin\Release\EPPlus.dll
+C:\Users\Administrator\Desktop\GCUtility\bin\Release\EPPlus.xml
+C:\Users\Administrator\Desktop\GCUtility\obj\Release\$safeprojectname$.dll
+C:\Users\Administrator\Desktop\GCUtility\obj\Release\$safeprojectname$.pdb

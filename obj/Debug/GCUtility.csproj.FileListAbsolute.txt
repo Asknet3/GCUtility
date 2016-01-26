@@ -1,1 +1,8 @@
 C:\Users\Administrator\Documents\Visual Studio 2013\My Exported Templates\GCUtility\obj\Debug\GCUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GCUtility\bin\Debug\GCUtility.XML
+C:\Users\Administrator\Desktop\GCUtility\bin\Debug\EPPlus.dll
+C:\Users\Administrator\Desktop\GCUtility\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\GCUtility\bin\Debug\GCUtility.dll
+C:\Users\Administrator\Desktop\GCUtility\bin\Debug\GCUtility.pdb
+C:\Users\Administrator\Desktop\GCUtility\obj\Debug\GCUtility.dll
+C:\Users\Administrator\Desktop\GCUtility\obj\Debug\GCUtility.pdb
